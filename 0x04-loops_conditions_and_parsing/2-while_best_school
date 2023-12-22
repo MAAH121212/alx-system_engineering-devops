@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #a script tp print best school 10 times
 
-count = 0
+count=0
 
 while [ $count -lt 10 ]
 do
